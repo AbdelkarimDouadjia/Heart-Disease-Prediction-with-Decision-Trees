@@ -113,7 +113,7 @@ To run this project on your local machine, follow these steps:
 
 ## Google Colab Notebook
 You can also run the project on Google Colab:
-[Google Colab Notebook](https://colab.research.google.com/drive/1Jw1Bk67cDD4z_bmjRFigBXxcWQ3ltiIM?usp=sharing)
+[Google Colab Notebook](https://colab.research.google.com/drive/1wKLa7ZLMykMJw4dzYbum43ioWrUXLYhw?usp=sharing)
 
 ## Contributors
 - **Douadjia Abdelkarim**  
